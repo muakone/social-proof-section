@@ -7,7 +7,6 @@
 }
 body {
     width: 90%;
-    height: 100vh;
     background-color: var(--White);
     background-image: url(./images/bg-pattern-top-desktop.svg), url(./images/bg-pattern-bottom-desktop.svg);
     background-position: left top, right bottom;
@@ -108,6 +107,9 @@ h4 {
         background-position: left top, right bottom;
         text-align: center;
         
+    }
+    .container {
+        width: 30em;
     }
     .head {
         display: flex;
