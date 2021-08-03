@@ -29,6 +29,9 @@ header > p {
     display: inline-block;
     box-sizing: border-box;
     margin: 2em auto auto 6em;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
 }
 .head {
     display: flex;
@@ -117,7 +120,7 @@ h4 {
         margin: 0em;
     }
     header > p {
-        width: 20em;
+        max-width: 20em;
     }
     h1 {
         max-width: 7em;
@@ -136,6 +139,6 @@ h4 {
     .promote {
         display: flex;
         flex-direction: column;
-        gap: .1em;
+        gap: .1rem;
     }
 }
