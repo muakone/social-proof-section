@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/muakone/social-proof-section.git)
+- Live Site URL: [Add live site URL here](https://muakone.github.io/social-proof-section/)
 
 ## My process
 
@@ -57,7 +57,7 @@ To see how you can add code snippets, see below:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Add your name here](https://muakone.github.io/social-proof-section/)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/muak)
+- Twitter - [@yourusername](https://www.twitter.com/@Muhiz_akanni)
 
