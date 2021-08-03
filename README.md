@@ -23,14 +23,14 @@ Users should be able to:
 
 ### Screenshot
 
-![desktop-design](.screenshot/desktop-design.jpg)
-![mobile-design](.screenshot/mobile-design.jpg)
+![desktop-design](./screenshot/desktop-design.png)
+![mobile-design](./screenshot/mobile-design.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/muakone/social-proof-section.git)
-- Live Site URL: [Add live site URL here](https://muakone.github.io/social-proof-section/)
+- Solution URL: [Git hub url](https://github.com/muakone/social-proof-section.git)
+- Live Site URL: [Git hub page](https://muakone.github.io/social-proof-section/)
 
 ## My process
 
@@ -57,7 +57,7 @@ To see how you can add code snippets, see below:
 
 ## Author
 
-- Website - [Add your name here](https://muakone.github.io/social-proof-section/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/muak)
-- Twitter - [@yourusername](https://www.twitter.com/@Muhiz_akanni)
+- Website - [Muak1](https://muakone.github.io/social-proof-section/)
+- Frontend Mentor - [@muak](https://www.frontendmentor.io/profile/muak)
+- Twitter - [@Muhiz_akanni](https://www.twitter.com/@Muhiz_akanni)
 
